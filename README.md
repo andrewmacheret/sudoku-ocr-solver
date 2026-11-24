@@ -1,5 +1,7 @@
 # Irregular Sudoku OCR Solver
 
+[![License](https://img.shields.io/badge/license-MIT-lightgray.svg)](https://github.com/andrewmacheret/sudoku-ocr-solver/blob/main/LICENSE.md)
+
 Solves an irregular sudoku via OCR.
 
 Probably requires a lot of tweaking to use correctly.
